@@ -371,7 +371,7 @@ This project's **source code** is licensed under the Apache License 2.0 — see 
 
 ## 📧 Contact
 
-**Vishruth Dhamo** — [vishy.dhamo@gmail.com](mailto:vishy.dhamo@gmail.com)
+**Vishruth D** — [vishy.dhamo@gmail.com](mailto:vishy.dhamo@gmail.com)
 
 Project Link: [https://github.com/vishruth-d/property-companion](https://github.com/vishruth-d/property-companion)
 
