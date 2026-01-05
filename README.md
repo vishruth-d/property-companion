@@ -123,6 +123,8 @@ npm run dev
 
 **Open:** http://localhost:5173
 
+**Note:** You can run it either using "Manual Input" or "Excel Upload". For the latter, please use [this](url) format!
+
 ---
 
 ## 📖 API Documentation
