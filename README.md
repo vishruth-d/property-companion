@@ -391,7 +391,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file.
 **Vishruth**
 
 - GitHub: [@vishruth-d](https://github.com/vishruth-d)
-- LinkedIn: [My Profile](https://linkedin.com/in/vishruthd)
+- LinkedIn: [Profile](https://linkedin.com/in/vishruthd)
 - Email: vishy.dhamo@gmail.com
 
 ---
