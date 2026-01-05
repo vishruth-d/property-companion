@@ -73,7 +73,7 @@ Properties are routed to segment-specific models based on estimated price percen
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/PropertyCompanion.git
+git clone https://github.com/vishruth-d/PropertyCompanion.git
 cd PropertyCompanion
 
 # Backend setup
@@ -82,14 +82,13 @@ pip install -r requirements.txt
 # Frontend setup
 cd frontend
 npm install
-cd ..
 ```
 
 ### Download Models & Data
 
 Models and transaction data are not included due to size/sensitivity. 
 
-**Option 1:** Download pre-trained models from [https://drive.google.com/drive/folders/16feBmXuembaVvnJ1nEHxQQ0Jwq0XqD5y?usp=sharing]
+**Option 1:** Download pre-trained models from [https://drive.google.com/drive/folders/16feBmXuembaVvnJ1nEHxQQ0Jwq0XqD5y?usp=sharing] and download "transactions_prepared_v3.csv" [here](url) into your project root for comparable transactions functionality.
 
 **Option 2:** Train your own using `notebooks/PropertyCompanion.ipynb`
 
