@@ -45,8 +45,8 @@ PropertyCompanion is a full-stack property valuation application that uses ensem
 
 | Version | Description | MAPE | Conformal Coverage |
 |---------|-------------|------|-------------------|
-| V1 | Baseline (single model) | 10.01% | - |
-| V2 | Enhanced features | 10.31% | - |
+| V1 | Baseline (single model) | 10.01% | **80%** |
+| V2 | Enhanced features | 10.31% | **80%** |
 | **V3** | **5-segment ensemble** | **9.95%** | **80%** |
 
 ### Segmentation Strategy (V3)
