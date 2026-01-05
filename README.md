@@ -7,8 +7,6 @@
 [![React](https://img.shields.io/badge/React-18+-61DAFB.svg)](https://reactjs.org)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-**Independent automated property due diligence**
-
 ---
 
 ## 🎯 Overview
