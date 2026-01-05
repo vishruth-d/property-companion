@@ -18,7 +18,7 @@ PropertyCompanion is a full-stack property valuation application that uses ensem
 - **Comparable transaction analysis** with similarity scoring
 - **Investment recommendations** (Strong Buy / Buy / Fair / Negotiate / Avoid)
 - **Mortgage calculations** and negotiation strategies
-- **Batch processing** via Excel upload, please use [this]((https://docs.google.com/spreadsheets/d/1W-snlDHtRB3WjN4FGzTNoaW3wS6wAyDy/edit?usp=share_link&ouid=104840233293304744685&rtpof=true&sd=true)) format!
+- **Batch processing** via Excel upload, please use [this](https://docs.google.com/spreadsheets/d/1W-snlDHtRB3WjN4FGzTNoaW3wS6wAyDy/edit?usp=share_link&ouid=104840233293304744685&rtpof=true&sd=true) format!
 
 ---
 
