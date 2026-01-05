@@ -7,7 +7,7 @@
 [![React](https://img.shields.io/badge/React-18+-61DAFB.svg)](https://reactjs.org)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-**MSc Statistics (Data Science and Machine Learning) Dissertation Project**
+**Independent automated property due diligence**
 
 ---
 
@@ -208,18 +208,6 @@ curl -X POST "http://localhost:8000/api/predict?version=v3" \
 
 ---
 
-## 🖼️ Screenshots
-
-| Home | Valuation Input |
-|------|-----------------|
-| ![Home](docs/screenshots/home.png) | ![Input](docs/screenshots/valuation.png) |
-
-| Results | Comparables |
-|---------|-------------|
-| ![Results](docs/screenshots/results.png) | ![Comparables](docs/screenshots/comparables.png) |
-
----
-
 ## 📁 Project Structure
 
 ```
@@ -395,7 +383,6 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file.
 
 ## 🙏 Acknowledgments
 
-- Imperial College London, Department of Mathematics
 - UK Land Registry for Price Paid Data (Open Government Licence)
 - EPC Register for Energy Performance data
 - Office for National Statistics for House Price Index
@@ -404,14 +391,14 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file.
 
 ## 📧 Contact
 
-**Vishruth** - MSc Statistics, Imperial College London
+**Vishruth**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Email: your.email@imperial.ac.uk
+- GitHub: [@vishruth-d](https://github.com/vishruth-d)
+- LinkedIn: [Your Profile](https://linkedin.com/in/vishruthd)
+- Email: vishy.dhamo@gmail.com
 
 ---
 
 <p align="center">
-  <i>Built with ❤️ for Imperial College London MSc Statistics Dissertation</i>
+  <i>Hope you enjoy my first project - built with ❤️ (blood, sweat and tears)!</i>
 </p>
