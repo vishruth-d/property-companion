@@ -88,7 +88,7 @@ npm install
 
 Models and transaction data are not included due to size/sensitivity. 
 
-**Option 1:** Download pre-trained models from [here](https://drive.google.com/drive/folders/16feBmXuembaVvnJ1nEHxQQ0Jwq0XqD5y?usp=sharing) and download "transactions_prepared_v3.csv" [here](url) into your project root for comparable transactions functionality.
+**Option 1:** Download pre-trained models from [here](https://drive.google.com/drive/folders/16feBmXuembaVvnJ1nEHxQQ0Jwq0XqD5y?usp=sharing) and download "transactions_prepared_v3.csv" [here](https://drive.google.com/file/d/1OpfBKl4kH_IZeJMFxMA1lOYAcCsy7S7-/view?usp=sharing) into your project root for comparable transactions functionality.
 
 **Option 2:** Train your own using `notebooks/PropertyCompanion.ipynb`
 
