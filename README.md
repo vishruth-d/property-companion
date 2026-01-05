@@ -89,7 +89,7 @@ cd ..
 
 Models and transaction data are not included due to size/sensitivity. 
 
-**Option 1:** Download pre-trained models from [Google Drive Link]
+**Option 1:** Download pre-trained models from [https://drive.google.com/drive/folders/16feBmXuembaVvnJ1nEHxQQ0Jwq0XqD5y?usp=sharing]
 
 **Option 2:** Train your own using `notebooks/PropertyCompanion.ipynb`
 
