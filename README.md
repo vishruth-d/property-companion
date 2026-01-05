@@ -26,14 +26,14 @@ PropertyCompanion is a full-stack property valuation application that uses ensem
 
 ```
 ┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐
-│  React Frontend │────▶│  FastAPI Backend│────▶│   ML Models     │
-│  (Vite + Tailwind)    │  (Python 3.10+) │     │  (LightGBM/XGB) │
+│ React Frontend  │────▶│ FastAPI Backend │────▶│    ML Models    │
+│(Vite + Tailwind)│     │  (Python 3.10+) │     │  (LightGBM/XGB) │
 └─────────────────┘     └─────────────────┘     └─────────────────┘
                                 │
                                 ▼
                         ┌─────────────────┐
-                        │  Transaction DB │
-                        │  (Land Registry)│
+                        │ Transaction DB  │
+                        │ (Land Registry) │
                         └─────────────────┘
 ```
 
