@@ -9,8 +9,6 @@
 
 **Imperial College London MSc Statistics Dissertation Project**
 
-![PropertyCompanion Demo](docs/screenshots/demo.png)
-
 ---
 
 ## 🎯 Overview
