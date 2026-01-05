@@ -200,8 +200,8 @@ const HomeScreen = ({onNavigate}) => {
           <Home className="w-10 h-10"/>
         </div>
         <h1 className="text-4xl font-bold mb-2">PropertyCompanion</h1>
-        <p className="text-gray-400">UK Property Valuation • ML-Powered Analysis</p>
-        <p className="text-gray-500 text-sm mt-1">Imperial MSc Statistics Project</p>
+        <p className="text-gray-400">Production-grade automated valuation model for UK properties</p>
+        <p className="text-gray-500 text-sm mt-1">£150k - £3M | NW London & neighbouring boroughs</p>
         
         {health && (
           <div className="mt-4 inline-flex items-center gap-2 px-3 py-1.5 bg-green-500/10 border border-green-500/30 rounded-full text-sm text-green-400">
